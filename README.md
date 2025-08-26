@@ -8,7 +8,7 @@ Students can attempt quizzes, view their scores, and track progress.
 
 Faculty can manage quizzes and monitor student performance.
 
-Features
+Features:
 
 Add, Update, Delete Quizzes
 
@@ -22,7 +22,7 @@ Secure Login for Admin & Students
 
 Database-backed with MySQL
 
-🛠 Tech Stack
+🛠 Tech Stack:
 
 FRONTEND: HTML, CSS, JavaScript
 
@@ -30,7 +30,7 @@ BACKEND: Core Java
 
 DATABASE: MySQL
 
-Project Structure
+Project Structure:
 
 OnlineQuizManagementSystem/
 ├── src/
@@ -50,6 +50,3 @@ OnlineQuizManagementSystem/
 └── screenshots/
 
 
-Karthika A
-CSE Department
-SECE
