@@ -1,5 +1,5 @@
 # Online-Quiz-Management-System
-Description
+
 A Java + MySQL project that automates the process of conducting quizzes online.
 
 Admin can create, update, and delete quizzes and questions.
