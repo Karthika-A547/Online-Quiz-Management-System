@@ -1,36 +1,45 @@
-# Online-Quiz-Management-System
+Online Quiz Management System
 
-A Java + MySQL project that automates the process of conducting quizzes online.
+📌 Description
 
-Admin can create, update, and delete quizzes and questions.
+The Online Quiz Management System is a Java + MySQL based project that automates the entire quiz process. It provides a user-friendly platform where Admins can manage quizzes and questions, Students can attempt quizzes and track their progress, and Faculty can monitor student performance and results. This system reduces manual effort, ensures quick evaluation with auto-scoring, and maintains secure records in a database-driven environment.
 
-Students can attempt quizzes, view their scores, and track progress.
 
-Faculty can manage quizzes and monitor student performance.
+---
 
-Features:
+🚀 Features
 
-Add, Update, Delete Quizzes
+Admin Panel: Create, update, and delete quizzes and questions.
 
-Add, Update, Delete Questions
+Student Module: Attempt quizzes, view instant scores, and track past performance.
 
-Attempt Quizzes with Auto-Scoring
+Faculty Module: Manage quizzes and monitor student participation and results.
 
-View Results & Leaderboards
+Auto-Scoring System: Evaluates answers instantly and stores results securely.
 
-Secure Login for Admin & Students
+Leaderboard: Displays top-performing students.
 
-Database-backed with MySQL
+Authentication: Secure login for Admins and Students.
 
-🛠 Tech Stack:
+Database Support: MySQL for reliable data storage and management.
 
-FRONTEND: HTML, CSS, JavaScript
 
-BACKEND: Core Java
 
-DATABASE: MySQL
+---
 
-Project Structure:
+🛠 Tech Stack
+
+Frontend: HTML, CSS, JavaScript 
+
+Backend: Core Java 
+
+Database: MySQL 
+
+
+
+---
+
+📂 Project Structure
 
 OnlineQuizManagementSystem/
 ├── src/
@@ -48,5 +57,25 @@ OnlineQuizManagementSystem/
 │   └── Main.java
 ├── README.md
 └── screenshots/
+
+
+---
+
+⚙ Workflow
+
+1. Admin logs in → Creates quizzes & adds questions.
+
+
+2. Student registers/logs in → Attempts available quizzes.
+
+
+3. System evaluates answers instantly → Stores results in MySQL.
+
+
+4. Student can view results & track past attempts.
+
+
+5. Faculty can view student performance & generate reports.
+
 
 
