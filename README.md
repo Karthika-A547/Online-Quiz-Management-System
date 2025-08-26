@@ -77,5 +77,19 @@ OnlineQuizManagementSystem/
 
 5. Faculty can view student performance & generate reports.
 
+---
+
+OOP Concept
+
+Classes represent entities like Student, Admin, Quiz.
+
+Encapsulation secures data like passwords and scores.
+
+Inheritance avoids duplication by using a common User class.
+
+Polymorphism allows login to act differently for Admin and Student.
+
+Abstraction hides the complex result calculation from the user.
+
 
 
