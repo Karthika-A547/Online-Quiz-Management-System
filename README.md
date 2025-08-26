@@ -50,7 +50,6 @@ OnlineQuizManagementSystem/
 └── screenshots/
 
 
-Author
 Karthika A
 CSE Department
 SECE
